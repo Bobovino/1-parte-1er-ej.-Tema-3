@@ -1,0 +1,4 @@
+Las ruedas del coche son 4
+La velocidad del coche es 120
+Las ruedas del coche son 4
+La velocidad del coche es 120
